@@ -12081,11 +12081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/To-Do-List/ToDoList/ToDoList.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/To-Do-List2/ToDoList/ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "/Users/Guest/Desktop/To-Do-List/ToDoList/ToDoList.csproj",
+      "projectPath": "/Users/Guest/Desktop/To-Do-List2/ToDoList/ToDoList.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/To-Do-List/ToDoList/obj/",
+      "outputPath": "/Users/Guest/Desktop/To-Do-List2/ToDoList/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

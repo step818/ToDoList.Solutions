@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using ToDoList.Models;
 
 namespace ToDoList.Controllers
 {
@@ -8,7 +9,7 @@ namespace ToDoList.Controllers
     public ActionResult Index()
     {
       // return View();
-      return new EmptyResult();
+      return View(Item.GetAll());
     }
 
   }
